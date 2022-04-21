@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://cjbcrown1112.github.io/csb-ggetl8/static/css/main.b50f3a91.chunk.css",
+    "main.js": "https://cjbcrown1112.github.io/csb-ggetl8/static/js/main.3827b953.chunk.js",
+    "main.js.map": "https://cjbcrown1112.github.io/csb-ggetl8/static/js/main.3827b953.chunk.js.map",
+    "runtime-main.js": "https://cjbcrown1112.github.io/csb-ggetl8/static/js/runtime-main.95fa8db7.js",
+    "runtime-main.js.map": "https://cjbcrown1112.github.io/csb-ggetl8/static/js/runtime-main.95fa8db7.js.map",
+    "static/js/2.b1e303ca.chunk.js": "https://cjbcrown1112.github.io/csb-ggetl8/static/js/2.b1e303ca.chunk.js",
+    "static/js/2.b1e303ca.chunk.js.map": "https://cjbcrown1112.github.io/csb-ggetl8/static/js/2.b1e303ca.chunk.js.map",
+    "index.html": "https://cjbcrown1112.github.io/csb-ggetl8/index.html",
+    "static/css/main.b50f3a91.chunk.css.map": "https://cjbcrown1112.github.io/csb-ggetl8/static/css/main.b50f3a91.chunk.css.map",
+    "static/js/2.b1e303ca.chunk.js.LICENSE.txt": "https://cjbcrown1112.github.io/csb-ggetl8/static/js/2.b1e303ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95fa8db7.js",
+    "static/js/2.b1e303ca.chunk.js",
+    "static/css/main.b50f3a91.chunk.css",
+    "static/js/main.3827b953.chunk.js"
+  ]
+}
